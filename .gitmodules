@@ -1,0 +1,6 @@
+[submodule "contract"]
+	path = contract
+	url = https://github.com/oansotegui/IEBIS-Ethereum-Project-Contract.git
+[submodule "dapp"]
+	path = dapp
+	url = https://github.com/oansotegui/IEBIS-Ethereum-Project-DApp.git
