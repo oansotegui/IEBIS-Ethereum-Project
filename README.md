@@ -1,4 +1,4 @@
-# IEBIS Ethereum Project
+# EBIS Ethereum Project
 
 Este proyecto se compone de un contrato Ethereum y una DApp asociada.
 
